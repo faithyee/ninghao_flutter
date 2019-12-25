@@ -12,7 +12,7 @@ version: 1.0.0+1
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.16.0
+  intl: ^0.15.1
   scoped_model: ^0.3.0
   rxdart: ^0.18.1
   http: ^0.12.0
